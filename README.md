@@ -2,6 +2,15 @@
 
 The list of certificates issued to [Jesus Graterol](https://jesusgraterol.dev/) by [Coursera](https://www.coursera.org/), [DataCamp](https://www.datacamp.com/) and [Kaggle](https://www.kaggle.com/).
 
+<br/>
+
+## Coursera Certificates
+
+@TODO
+
+
+<br/><br/><br/>
+
 ## DataCamp Certificates
 
 DataCamp is an online learning platform that focuses on teaching students the comprehensive skills they need to become successful data scientists. Industry experts teach these courses. The courses range in variety and offer curricula in topics like programming, web development, software engineering, and data cleaning. These courses are comprehensive and affordable alternatives to traditional four-year degrees.
