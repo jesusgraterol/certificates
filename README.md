@@ -1,6 +1,8 @@
 # Certificates
 
-The list of certificates issued to Jesus Graterol by Coursera, DataCamp &amp; Kaggle.
+The list of certificates issued to [Jesus Graterol](https://jesusgraterol.dev/) by [Coursera](https://www.coursera.org/), [DataCamp](https://www.datacamp.com/) and [Kaggle](https://www.kaggle.com/).
+
+<br/>
 
 
 ## Kaggle Certificates
