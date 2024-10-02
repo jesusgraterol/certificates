@@ -16,7 +16,15 @@ The certificate files can be found in the [`assets`](https://github.com/jesusgra
 
 ## The Linux Foundation
 
-@TODO
+The Linux Foundation is a non-profit organization established in 2000 to support Linux development and open-source software projects.
+
+The certificate was issued by [The Linux Foundation](https://www.linuxfoundation.org/) through [Coursera's Platform](https://www.coursera.org/).
+
+### Open Source Software Development, Linux and Git *~2 months*
+
+Some short description ... [View Course](https://www.coursera.org/account/accomplishments/specialization/NX9P2RH9S2SH)
+
+![Certificate](assets/coursera/open-source-software-development-linux-and-git.png)
 
 
 
@@ -26,7 +34,28 @@ The certificate files can be found in the [`assets`](https://github.com/jesusgra
 
 ## Meta
 
-@TODO
+Meta is an American multinational technology conglomerate based in Menlo Park, California. The company owns and operates Facebook, Instagram, Threads, and WhatsApp, among other products and services.
+
+These certificates was issued by [Meta](https://www.meta.com/) through [Coursera's Platform](https://www.coursera.org/).
+
+### Front-End Developer *~7 months*
+
+Some short description ... [View Course](https://www.coursera.org/account/accomplishments/professional-cert/ZBVQ5467DY4X)
+
+![Certificate](assets/coursera/front-end-developer.png)
+
+### Back-End Developer *~8 months*
+
+Some short description ... [View Course](https://www.coursera.org/account/accomplishments/professional-cert/LPZN5TBS3CM8)
+
+![Certificate](assets/coursera/back-end-developer.png)
+
+### Database Engineer *~6 months*
+
+Some short description ... [View Course](https://www.coursera.org/account/accomplishments/professional-cert/LPZN5TBS3CM8)
+
+![Certificate](assets/coursera/database-engineer.png)
+
 
 
 
