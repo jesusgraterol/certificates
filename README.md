@@ -22,7 +22,7 @@ The certificate was issued by [The Linux Foundation](https://www.linuxfoundation
 
 ### Open Source Software Development, Linux and Git *~2 months*
 
-Some short description ... [View Course](https://www.coursera.org/account/accomplishments/specialization/NX9P2RH9S2SH)
+Get the skills and knowledge you need to develop open source software using Linux, Git, and ... [View Course](https://www.coursera.org/account/accomplishments/specialization/NX9P2RH9S2SH)
 
 ![Certificate](assets/coursera/open-source-software-development-linux-and-git.png)
 
@@ -40,19 +40,19 @@ These certificates was issued by [Meta](https://www.meta.com/) through [Coursera
 
 ### Front-End Developer *~7 months*
 
-Some short description ... [View Course](https://www.coursera.org/account/accomplishments/professional-cert/ZBVQ5467DY4X)
+Gain the technical skills required to become a qualified front-end developer by learning in-demand programming skills and ... ... [View Course](https://www.coursera.org/account/accomplishments/professional-cert/ZBVQ5467DY4X)
 
 ![Certificate](assets/coursera/front-end-developer.png)
 
 ### Back-End Developer *~8 months*
 
-Some short description ... [View Course](https://www.coursera.org/account/accomplishments/professional-cert/LPZN5TBS3CM8)
+Gain the technical skills required to become a qualified back-end developer by learning in-demand programming skills and ... [View Course](https://www.coursera.org/account/accomplishments/professional-cert/LPZN5TBS3CM8)
 
 ![Certificate](assets/coursera/back-end-developer.png)
 
 ### Database Engineer *~6 months*
 
-Some short description ... [View Course](https://www.coursera.org/account/accomplishments/professional-cert/J3EWLFZMRFP8)
+You’ll learn the key skills required to create, manage and manipulate databases, as well as ... [View Course](https://www.coursera.org/account/accomplishments/professional-cert/J3EWLFZMRFP8)
 
 ![Certificate](assets/coursera/database-engineer.png)
 
