@@ -1,10 +1,10 @@
 # Certificates
 
-The list of certificates issued to [Jesus Graterol](https://jesusgraterol.dev/) by [Coursera](https://www.coursera.org/), [DataCamp](https://www.datacamp.com/) and [Kaggle](https://www.kaggle.com/).
+The list of certificates issued to [Jesus Graterol](https://jesusgraterol.dev/) by [Meta (Coursera)](https://www.coursera.org/), [DataCamp](https://www.datacamp.com/) and [Kaggle](https://www.kaggle.com/).
 
 <br/>
 
-## Coursera Certificates
+## Meta (Coursera) Certificates
 
 @TODO
 
