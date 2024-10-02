@@ -1,17 +1,40 @@
 # Certificates
 
-The list of certificates issued to [Jesus Graterol](https://jesusgraterol.dev/) by [Meta (Coursera)](https://www.coursera.org/), [DataCamp](https://www.datacamp.com/) and [Kaggle](https://www.kaggle.com/).
+This page contains all of the certificates that have been issued to [Jesus Graterol](https://jesusgraterol.dev/) by:
+
+* [The Linux Foundation (Coursera)](https://www.coursera.org/) | [View certificates](#the-linux-foundation)
+* [Meta (Coursera)](https://www.coursera.org/) | [View certificates](#meta)
+* [DataCamp](https://www.datacamp.com/) | [View certificates](#datacamp)
+* [Kaggle](https://www.kaggle.com/) | [View certificates](#kaggle)
+
+
+The certificate files can be found in the [`assets`](https://github.com/jesusgraterol/certificates/tree/main/assets) directory.
+
+
 
 <br/>
 
-## Meta (Coursera) Certificates
+## The Linux Foundation
 
 @TODO
 
 
+
+
+
 <br/><br/><br/>
 
-## DataCamp Certificates
+## Meta
+
+@TODO
+
+
+
+
+
+<br/><br/><br/>
+
+## DataCamp
 
 DataCamp is an online learning platform that focuses on teaching students the comprehensive skills they need to become successful data scientists. Industry experts teach these courses. The courses range in variety and offer curricula in topics like programming, web development, software engineering, and data cleaning. These courses are comprehensive and affordable alternatives to traditional four-year degrees.
 
@@ -158,7 +181,7 @@ Now that you've learned the basics of SQL, it's time to supercharge your queries
 
 <br/><br/><br/>
 
-## Kaggle Certificates
+## Kaggle
 
 Kaggle is a data science competition platform and online community of data scientists and machine learning practitioners under Google LLC. Kaggle enables users to find and publish datasets, explore and build models in a web-based data science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.
 
