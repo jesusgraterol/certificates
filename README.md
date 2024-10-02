@@ -1,4 +1,4 @@
-# Certificates
+# Certifications
 
 This page contains all of the certificates that have been issued to [Jesus Graterol](https://jesusgraterol.dev/) by:
 
