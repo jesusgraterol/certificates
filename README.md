@@ -88,7 +88,7 @@ Herein, you'll consolidate and practice your knowledge of lists, dictionaries, t
 
 ### Python Data Science Toolbox (Part 1) *~3 hours*
 
-It's time to push forward and develop your Python chops even further. There are tons of fantastic functions in Python and its library ecosystem. However, as a data scientist, you'll ... [View Course](https://www.datacamp.com/completed/statement-of-accomplishment/course/f98bc6047f5f6a41a88bbd0a4a6d763b484cdc8e)
+It's time to push forward and develop your Python chops even further. There are tons of fantastic functions in Python and its library ecosystem. However, as a data scientist, you'll ... [View Course](https://www.datacamp.com/completed/statement-of-accomplishment/course/cfec6a9bcdf20e80cdff64c439467bd7521991cf)
 
 ![Certificate](assets/datacamp/python-data-science-toolbox-part-1.png)
 
