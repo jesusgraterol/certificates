@@ -15,7 +15,10 @@ The list of certificates issued to [Jesus Graterol](https://jesusgraterol.dev/) 
 
 DataCamp is an online learning platform that focuses on teaching students the comprehensive skills they need to become successful data scientists. Industry experts teach these courses. The courses range in variety and offer curricula in topics like programming, web development, software engineering, and data cleaning. These courses are comprehensive and affordable alternatives to traditional four-year degrees.
 
-The certificates on this website were issued by [DataCamp](https://www.datacamp.com/) through their online platform. The courses took approximately **87 hours** to complete and the link to my profile is: [jesusgraterol](https://www.datacamp.com/portfolio/jesusgraterol)
+These certificates were issued by [DataCamp](https://www.datacamp.com/) through their online platform and the courses took approximately **87 hours** to complete.
+
+**Profile:** [jesusgraterol](https://www.datacamp.com/portfolio/jesusgraterol)
+
 
 ### Introduction to Python *~4 hours*
 
@@ -159,7 +162,10 @@ Now that you've learned the basics of SQL, it's time to supercharge your queries
 
 Kaggle is a data science competition platform and online community of data scientists and machine learning practitioners under Google LLC. Kaggle enables users to find and publish datasets, explore and build models in a web-based data science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.
 
-The certificates on this website were issued by [Kaggle](https://www.kaggle.com/) through the [Kaggle Learn Program](https://www.kaggle.com/learn). The courses took approximately **29 hours** to complete and the link to my profile is: [jesusgraterol](https://www.kaggle.com/jesusgraterol)
+These certificates were issued by [Kaggle](https://www.kaggle.com/) through the [Kaggle Learn Program](https://www.kaggle.com/learn) and the courses took approximately **29 hours** to complete.
+
+**Profile:** [jesusgraterol](https://www.kaggle.com/jesusgraterol)
+
 
 ### Intro to Programming *~5 hours*
 
