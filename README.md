@@ -1,6 +1,6 @@
 # Certifications
 
-This page contains all of the certificates that have been issued to [Jesus Graterol](https://jesusgraterol.dev/) by:
+This repository contains all of the certificates that have been issued to [Jesus Graterol](https://jesusgraterol.dev/) by:
 
 * [The Linux Foundation (Coursera)](https://www.coursera.org/) | [View certificates](#the-linux-foundation)
 * [Meta (Coursera)](https://www.coursera.org/) | [View certificates](#meta)
