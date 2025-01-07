@@ -2,10 +2,10 @@
 
 This repository contains all of the certificates that have been issued to [Jesus Graterol](https://jesusgraterol.dev/) by:
 
-* [The Linux Foundation (Coursera)](https://www.coursera.org/) | [View certificates](#the-linux-foundation)
-* [Meta (Coursera)](https://www.coursera.org/) | [View certificates](#meta)
-* [DataCamp](https://www.datacamp.com/) | [View certificates](#datacamp)
-* [Kaggle](https://www.kaggle.com/) | [View certificates](#kaggle)
+* The Linux Foundation | [View certificates](#the-linux-foundation)
+* Meta | [View certificates](#meta)
+* DataCamp | [View certificates](#datacamp)
+* Kaggle | [View certificates](#kaggle)
 
 
 The certificate files can be found in the [`assets`](https://github.com/jesusgraterol/certificates/tree/main/assets) directory.
