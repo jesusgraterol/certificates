@@ -2,10 +2,10 @@
 
 This repository contains all of the certificates that have been issued to [Jesus Graterol](https://jesusgraterol.dev/) by:
 
-* The Linux Foundation | [View certificates](#the-linux-foundation)
-* Meta | [View certificates](#meta)
-* DataCamp | [View certificates](#datacamp)
-* Kaggle | [View certificates](#kaggle)
+* The Linux Foundation - [View certificates](#the-linux-foundation)
+* Meta - [View certificates](#meta)
+* DataCamp - [View certificates](#datacamp)
+* Kaggle - [View certificates](#kaggle)
 
 
 The certificate files can be found in the [`assets`](https://github.com/jesusgraterol/certificates/tree/main/assets) directory.
@@ -40,7 +40,7 @@ These certificates was issued by [Meta](https://www.meta.com/) through [Coursera
 
 ### Front-End Developer *~7 months*
 
-Gain the technical skills required to become a qualified front-end developer by learning in-demand programming skills and ... ... [View Course](https://www.coursera.org/account/accomplishments/professional-cert/ZBVQ5467DY4X)
+Gain the technical skills required to become a qualified front-end developer by learning in-demand programming skills and ... [View Course](https://www.coursera.org/account/accomplishments/professional-cert/ZBVQ5467DY4X)
 
 ![Certificate](assets/coursera/front-end-developer.png)
 
@@ -94,7 +94,7 @@ As a Data Scientist, the majority of your time should be spent gleaning actionab
 
 ### Writing Functions in Python *~4 hours*
 
-You've done your analysis, built your report, and trained a model. What's next? Well, if you want to deploy your model into production... [View Course](https://www.datacamp.com/completed/statement-of-accomplishment/course/920e6860f5e466c637a2e069c9d04669e4d87bc0)
+You've done your analysis, built your report, and trained a model. What's next? Well, if you want to deploy your model into production ... [View Course](https://www.datacamp.com/completed/statement-of-accomplishment/course/920e6860f5e466c637a2e069c9d04669e4d87bc0)
 
 ![Certificate](assets/datacamp/writing-functions-in-python.png)
 
@@ -122,7 +122,7 @@ The financial industry uses Python extensively for quantitative analysis, rangin
 
 ### Intermediate Python for Finance *~4 hours*
 
-Learning Python can automate financial tasks such as calculating risk, mapping market health, and visualizing a stock's price trends, saving you time and money... [View Course](https://www.datacamp.com/completed/statement-of-accomplishment/course/345aaf5c5ae122f19367a0bb2d09b04cffa5c10d)
+Learning Python can automate financial tasks such as calculating risk, mapping market health, and visualizing a stock's price trends, saving you time and money ... [View Course](https://www.datacamp.com/completed/statement-of-accomplishment/course/345aaf5c5ae122f19367a0bb2d09b04cffa5c10d)
 
 ![Certificate](assets/datacamp/intermediate-python-for-finance.png)
 
@@ -157,7 +157,7 @@ In this second Python Data Science Toolbox course, you'll continue to build your
 
 ### Data Manipulation with pandas *~4 hours*
 
-With this course, you’ll learn why pandas is the world's most popular Python library, used for everything from data manipulation to... [View Course](https://www.datacamp.com/completed/statement-of-accomplishment/course/697cea7356018cc64fbd3681a77b2347bca66176)
+With this course, you’ll learn why pandas is the world's most popular Python library, used for everything from data manipulation to ... [View Course](https://www.datacamp.com/completed/statement-of-accomplishment/course/697cea7356018cc64fbd3681a77b2347bca66176)
 
 ![Certificate](assets/datacamp/data-manipulation-with-pandas.png)
 
